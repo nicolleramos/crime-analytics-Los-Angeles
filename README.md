@@ -1,1 +1,1 @@
-# crime-analytics-Los-Angeles | Jupyter Python
+# crime-analytics-Los-Angeles
